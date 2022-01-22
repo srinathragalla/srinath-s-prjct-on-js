@@ -7,7 +7,7 @@
 
 body{
   position: relative;
-  background-color:  rgba(100, 201, 248, 0.8);
+  background-color:  rgba(102, 172, 204, 0.8);
   font-family: 'Architects Daughter', initial;
 }
 
@@ -15,7 +15,7 @@ button{
   padding: 8px;
   outline: none;
   cursor: pointer;
-  font-family: cursive;
+  font-family: initial;
   border-radius: 5px;
   background: whitesmoke;
   border: 1px solid lightgray;
@@ -48,7 +48,7 @@ button:hover{
   outline: none;
   resize: none;
   font-size: 1.5rem;
-  font-family: cursive;
+  font-family: initial;
   box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.9);
 }
 

@@ -1,6 +1,6 @@
 var random_margin = ["-5px", "1px", "5px", "10px", "7px"];
 var random_colors = ["#c2ff3d","#ff3de8","#3dc2ff","#04e022","#bc83e6","#ebb328"];
-var random_degree = ["rotate(3deg)", "rotate(1deg)", "rotate(-1deg)", "rotate(-3deg)", "rotate(-5deg)", "rotate(-8deg)"];
+var random_degree = ["rotate(3deg)", "rotate(-5deg)", "rotate(-1deg)", "rotate(3deg)", "rotate(-5deg)", "rotate(-8deg)"];
 var index = 0;
 
 window.onload = document.querySelector("#user_input").select();
